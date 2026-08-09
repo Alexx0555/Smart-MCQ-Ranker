@@ -1,0 +1,23 @@
+{
+  "OPTIONS": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "PAD": 0,
+  "UNK": 1,
+  "CLS": 2,
+  "SEP": 3,
+  "MASK": 4,
+  "N_SPECIAL": 5,
+  "N_LEX": 3,
+  "MAX_LEN": 256,
+  "D_MODEL": 256,
+  "NHEAD": 4,
+  "NLAYERS": 4,
+  "DIM_FF": 1024,
+  "DROPOUT": 0.3,
+  "vocab_size": 3007
+}
